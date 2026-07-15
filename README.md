@@ -12,23 +12,32 @@
 
 ---
 
-### 🎯 Focusing on
+## 🎯 Focusing on
+
 Building full-stack apps that solve everyday problems — from tracking business operations to peer-to-peer delivery.
 
-### 🔭 Currently working on
+## 🔭 Currently Working On
+
 - **[Aquaatrack](https://github.com/esnnishanth/Aquaatrack)** — Mobile & web app for water bore drilling businesses: track jobs, manage pipe inventory, log labour payments, calculate agent commissions, and scan handwritten bills with AI.
-- **[foodky](https://github.com/esnnishanth/foodky)** — Search any dish and instantly see shelf life, storage tips, and freshness info.
-- **[shipky](https://github.com/esnnishanth/shipky)** — Parcel delivery powered by strangers who are already traveling your route — send packages faster and cheaper by matching with travelers.
 
-### 🛠️ Tech Stack
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- **[foodky](https://github.com/esnnishanth/foodky)** — Search any dish and instantly see shelf life, storage tips, and freshness information.
 
-### 📫 Reach me
-LinkedIn: [in/nishanthes](https://www.linkedin.com/in/nishanthes)
+- **[shipky](https://github.com/esnnishanth/shipky)** — Parcel delivery powered by travelers already heading your route.
 
 ---
 
-<p align="center"><i>Always building, always learning 🚀</i></p>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,mongodb,mysql,ts,js,css,github,firebase" />
+</p>
+
+---
+
+### 📫 Reach me
+LinkedIn: [in/nishanthes](https://www.linkedin.com/in/nishanthes)
+</p>
+
+<p align="center">
+  <i>Always building, always learning 🚀</i>
+</p>
