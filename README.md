@@ -13,12 +13,12 @@
 ---
 
 ### 🎯 Focusing on
-Building full-stack apps that solve everyday problems — from tracking business operations to secure access sharing.
+Building full-stack apps that solve everyday problems — from tracking business operations to peer-to-peer delivery.
 
 ### 🔭 Currently working on
 - **[Aquaatrack](https://github.com/esnnishanth/Aquaatrack)** — Mobile & web app for water bore drilling businesses: track jobs, manage pipe inventory, log labour payments, calculate agent commissions, and scan handwritten bills with AI.
 - **[foodky](https://github.com/esnnishanth/foodky)** — Search any dish and instantly see shelf life, storage tips, and freshness info.
-- **[secure-delegate](https://github.com/esnnishanth/secure-delegate)** — Securely share access to your accounts with trusted people, with time limits and activity tracking — no passwords shared.
+- **[shipky](https://github.com/esnnishanth/shipky)** — Parcel delivery powered by strangers who are already traveling your route — send packages faster and cheaper by matching with travelers.
 
 ### 🛠️ Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
